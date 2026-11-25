@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+installer_output/
+*.spec
+
+# Never commit saved logins, settings or keys
+config.json
+settings.json
+*.key

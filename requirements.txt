@@ -1,0 +1,6 @@
+requests
+seedrcc
+pywebview
+pyinstaller
+# Only needed on Mac/Linux (Windows uses built-in DPAPI):
+# cryptography
