@@ -1,4 +1,4 @@
-# <img src="icon.png" alt="App Icon" width="36" align="center" /> Seedr Movie Manager
+# <img src="icon.png" alt="App Icon" width="36" align="center" /> <br> Seedr Movie Manager
 
 
 A small Windows desktop app that searches movies on YTS, sends the chosen version to your
